@@ -1,9 +1,15 @@
-# SlotMath Labs (Applied Probability Institute)
+<div align="center">
+  <img src="./logo-square.png" width="120" height="120" alt="SlotMath Labs Logo" />
+  <h1>SlotMath Labs</h1>
+  <p><em>Division of Applied Probability Institute</em></p>
 
-[![Research Portal](https://img.shields.io/badge/Portal-slotmath.org-00E5FF.svg)](https://slotmath.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Open Science: Datasets](https://img.shields.io/badge/Data-Open%20Access-purple.svg)](https://slotmath.org/en/research/)
-[![Affiliation](https://img.shields.io/badge/Institution-Applied%20Probability%20Institute-gold.svg)](https://slotmath.org/en/about/)
+  <p>
+    <a href="https://slotmath.org"><img src="https://img.shields.io/badge/Portal-slotmath.org-00E5FF.svg" alt="Research Portal" /></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+    <a href="https://slotmath.org/en/research/"><img src="https://img.shields.io/badge/Data-Open%20Access-purple.svg" alt="Open Science Datasets" /></a>
+    <a href="https://slotmath.org/en/about/"><img src="https://img.shields.io/badge/Institution-Applied%20Probability%20Institute-gold.svg" alt="Affiliation" /></a>
+  </p>
+</div>
 
 **SlotMath Labs** is an independent quantitative research collective operating under the **Applied Probability Institute**. We engineer deterministic combinatorial models, open-access stochastic simulation engines, and discrete probability benchmarks for modern slot architectures, configurable RTP profiles, and virtual reel mechanics.
 
